@@ -1,5 +1,5 @@
 <!--
-  Professional GitHub profile README for Bebin-dotm.
+  Professional GitHub profile README for Bebin-Tech.
   Replace placeholder email, social, education, certification, support, and project links with your real details.
 -->
 
