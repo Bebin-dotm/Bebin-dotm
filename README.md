@@ -1,11 +1,11 @@
 <!--
-  Professional GitHub profile README for Bebin-Tech.
+  Professional GitHub profile README for Bebin-dotm.
   Replace placeholder email, social, education, certification, support, and project links with your real details.
 -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:22c55e&text=Bebin%20Dotm&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:22c55e&text=Bebin-tech&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Hi%2C+I+am+Bebin.;Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products)](https://git.io/typing-svg)
 
@@ -119,9 +119,11 @@ I'm **Bebin**, a full stack developer who enjoys building practical, polished, a
 
 </div>
 
-------
+---
+---
 
 ## 🚀 Featured Projects
+
 
 ### KAHE Task Management System
 
@@ -147,9 +149,9 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 
 ## 🎓 Education
 
-- **Degree / Program:** B.Sc cs-(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE ).
-- **Institution:** Karpagam Academy of Higher Education.
-- **Focus Areas:** Web development, software engineering, databases, full-stack application development, mobile app developing .
+- **Degree / Program:** Add your degree or course name here.
+- **Institution:** Add your college or university name here.
+- **Focus Areas:** Web development, software engineering, databases, full-stack application development.
 
 ---
 ---
@@ -195,7 +197,7 @@ Location: Add your city/country if you want
 </div>
 
 ---
-
+---
 
 <div align="center">
 
