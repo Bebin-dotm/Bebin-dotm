@@ -123,17 +123,6 @@ I'm **Bebin**, a full stack developer who enjoys building practical, polished, a
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Bebin-dotm/Task-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bebin-dotm&repo=Task-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Task Management System" />
-</a>
-<a href="https://github.com/Bebin-dotm/your-second-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bebin-dotm&repo=your-second-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Second featured project" />
-</a>
-
-</div>
-
 ### KAHE Task Management System
 
 A role-based academic task management platform for Admin, Dean, HOD, and Faculty users. It supports department management, task assignment, faculty submissions, approval workflows, reports, completed tasks, notifications, and module-level access permissions.
