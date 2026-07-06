@@ -7,7 +7,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:22c55e&text=Bebin%20Dotm&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Bebin;%F0%9F%9A%80+Welcome+to+My+GitHub+Profile;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%B1+Always+Learning+New+Technologies;%E2%AD%90+Thanks+for+Visiting+My+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products)](https://git.io/typing-svg)
 
 <sub><strong>Building modern full-stack and mobile applications with practical features, smooth user experiences, and maintainable architecture.</strong></sub>
 
@@ -61,6 +61,7 @@ I'm **Bebin**, a full stack developer who enjoys building practical, polished, a
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Technologies
@@ -78,13 +79,13 @@ I'm **Bebin**, a full stack developer who enjoys building practical, polished, a
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:bbebinr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/Bebin-dotm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.instagram.com/your-instagram-username/">
+<a href="https://www.instagram.com/bebin.tech/">
   <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://x.com/your-x-username">
@@ -193,13 +194,6 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 - **Focus Areas:** Web development, software engineering, databases, full-stack application development.
 
 ---
-
-## 🏅 Certifications
-
-- Add certification name - Platform / Organization
-- Add certification name - Platform / Organization
-- Add certification name - Platform / Organization
-
 ---
 
 ## 🌱 Currently Learning
@@ -225,11 +219,11 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 ## 📫 Contact Information
 
 ```text
-Email: your.email@example.com
+Email: bbebinr@gmail.com
 GitHub: https://github.com/Bebin-dotm
-Instagram: https://www.instagram.com/your-instagram-username/
+Instagram: https://www.instagram.com/bebin.tech/
 Portfolio: https://your-portfolio-link.com
-Location: Add your city/country if you want
+Location: coimbatore/tamilnadu .
 ```
 
 ---
@@ -247,21 +241,6 @@ Location: Add your city/country if you want
 ## ⚡ Fun Fact
 
 I believe a good project should feel good to use, be easy to understand, and be simple enough to maintain later.
-
----
-
-## ☕ Support Me
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/your-username">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy Me A Coffee" />
-</a>
-<a href="https://github.com/sponsors/Bebin-dotm">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-</a>
-
-</div>
 
 ---
 
