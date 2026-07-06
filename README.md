@@ -165,16 +165,9 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 
 ## 🎓 Education
 
-- **Degree / Program:** Add your degree or course name here.
-- **Institution:** Add your college or university name here.
+- **Degree / Program:** B.Sc cs- ARTIFICIAL INTELLIGENCE AND DATA SCIENCE.
+- **Institution:** Karpagam Academy of Higher Education .
 - **Focus Areas:** Web development, software engineering, databases, full-stack application development.
-
----
-
-## 🏅 Certifications
-
-- Add certification name - Platform / Organization
-- Add certification name - Platform / Organization
 
 ---
 
@@ -199,8 +192,7 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 ## 📫 Contact Information
 
 ```text
-Email: your.email@example.com
+Email: bbebinr@gmail.con
 GitHub: https://github.com/Bebin-dotm
-LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
 Portfolio: https://your-portfolio-link.com
-Location: Add your city/country if you want
+Location: coimbatore/tamilnadu
